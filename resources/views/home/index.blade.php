@@ -304,36 +304,36 @@
                                 <div class="accordion-item">
                                     <h2 class="accordion-header">
                                         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                            hamburg Meat is animal flesh food.
+                                            Tôi có được kiểm tra thử trước khi thanh toán không?
                                         </button>
                                     </h2>
                                     <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <p>Meat provide well shaped fresh and the organic meat well animals is Humans have hunted schistoric times</p>
+                                            <p>Bemet đảm bảo cho phép Khách hàng được kiểm tra hàng trước khi nhận hàng và thanh toán. Nếu sản phẩm không đúng như cam kết, Bemet hoàn toàn chịu trách nhiệm, khách hàng không phải trả thêm 1 khoản phí nào.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h2 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                            Revolution allowed the of animals
+                                        Tôi mua hàng tại Bemet có được bảo hành không?
                                         </button>
                                     </h2>
                                     <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <p>Meat provide well shaped fresh and the organic meat well animals is Humans have hunted schistoric times</p>
+                                            <p>Sản phẩm khi mua tại Bemet sẽ bảo hành trong vòng 06 tháng kể từ ngày mua (Bảo hành các lỗi như bong keo, sứt chỉ, lỗi của nhà sản xuất) quý khách chụp hình ảnh gửi shop kiểm tra.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h2 class="accordion-header">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                            Meat is animal flesh food.
+                                        Tôi mua hàng tại Bemet có được FREE SHIP Không?
                                         </button>
                                     </h2>
                                     <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <p>Meat provide well shaped fresh and the organic meat well animals is Humans have hunted schistoric times</p>
+                                            <p>Bemet Giao hàng Trên toàn quốc Phí Ship đỒng Giá 30k/ Đơn hàng. FREESHIP với tất cả các đơn hàng Trên 2 Triệu. Thanh toán khi nhận hàng.</p>
                                         </div>
                                     </div>
                                 </div>
